@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-
-# RENAME THIS FILE WITH YOUR TEAM NAME.
-
 import numpy as np
 
 nInst=100
