@@ -1,4 +1,4 @@
-# SIG x FinTechSoc Algothon 2021
+# SIG x FinTechSoc Algothon 2021 - Team Benjamin Greyham
 Contains evaluation program, relevant price data and an example algorithm/submission file for the Algothon. We'd highly recommend cloning this repo to use a base for your algorithm development, and to make it easier for submission.
 
 **Good luck!**
