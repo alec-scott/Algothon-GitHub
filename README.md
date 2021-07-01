@@ -1,2 +1,0 @@
-# Benjamin-Greyham
-Algothon21
